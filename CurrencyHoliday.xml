@@ -4,7 +4,7 @@
      <provider>Innovance</provider>
      <description>to definition currency holidays</description>
      <extensionpoint>
-          <location>BRANCH_VIEW</location>
+          <location>EXTENSION_MENU</location>
           <label>Currency Holiday</label>
           <url>https://currencyholidayswebmambu.azurewebsites.net/</url>
      </extensionpoint>
