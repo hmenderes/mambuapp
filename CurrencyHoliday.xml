@@ -6,7 +6,7 @@
  <uninstallUrl></uninstallUrl>
  <installUrl></installUrl>
  <extensionpoint>
- <location>EXTENSION_MENU</location>
+ <location>CLIENT_VIEW</location>
  <label>Currency Holiday</label>
  <url>https://currencyholidayswebmambu.azurewebsites.net</url>
  </extensionpoint>
