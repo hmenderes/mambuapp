@@ -1,0 +1,13 @@
+<app>
+ <id>IntRateApp002</id>
+ <name>Interest Rates Application</name>
+ <provider>Akbank AG-Inovance</provider>
+ <description>Interest Rates Application</description>
+ <uninstallUrl></uninstallUrl>
+ <installUrl></installUrl>
+ <extensionpoint>
+ <location>EXTENSION_MENU</location>
+ <label>Interest Rates</label>
+ <url>https://corebanking-dev.akbank.de/interest-rates</url>
+ </extensionpoint>
+</app>
