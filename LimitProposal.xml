@@ -1,6 +1,6 @@
 <app>
  <id>LmtApp001</id>
- <name>Curreny Holiday Application</name>
+ <name>Limit Proposal Application</name>
  <provider>Akbank AG-Inovance</provider>
  <description>Limit Proposal Entry Applicaition</description>
  <uninstallUrl></uninstallUrl>
@@ -8,6 +8,6 @@
  <extensionpoint>
  <location>EXTENSION_MENU</location>
  <label>Limit Proposal Applicaition</label>
- <url>http://corebanking-dev.akbank.local/login</url>
+ <url>https://corebanking-dev.akbank.de/login</url>
  </extensionpoint>
 </app>
