@@ -8,6 +8,6 @@
  <extensionpoint>
  <location>EXTENSION_MENU</location>
  <label>Currency Holiday</label>
- <url>https://currencyholidayswebmambu.azurewebsites.net</url>
+ <url>https://corebanking-dev.akbank.de/currency-holiday</url>
  </extensionpoint>
 </app>
