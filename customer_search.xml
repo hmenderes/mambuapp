@@ -1,0 +1,13 @@
+<app>
+ <id>app22999</id>
+ <name>Customer Application</name>
+ <provider>Akbank AG-Inovance</provider>
+ <description>Customer Search</description>
+ <uninstallUrl></uninstallUrl>
+ <installUrl></installUrl>
+ <extensionpoint>
+ <location>EXTENSION_MENU</location>
+ <label>Customer Search</label>
+ <url>https://corebanking-dev.akbank.de/customer-search</url>
+ </extensionpoint>
+</app>
