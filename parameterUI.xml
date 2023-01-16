@@ -1,0 +1,13 @@
+<app>
+ <id>ParameterUIApp001</id>
+ <name>Parameter Application</name>
+ <provider>Akbank AG-Inovance</provider>
+ <description>Parameter Application</description>
+ <uninstallUrl></uninstallUrl>
+ <installUrl></installUrl>
+ <extensionpoint>
+ <location>EXTENSION_MENU</location>
+ <label>Parameters</label>
+ <url>https://corebanking-dev.akbank.de/parameter-ui</url>
+ </extensionpoint>
+</app>
