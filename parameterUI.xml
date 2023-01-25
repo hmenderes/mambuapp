@@ -8,6 +8,6 @@
  <extensionpoint>
  <location>EXTENSION_MENU</location>
  <label>Parameters</label>
- <url>https://corebanking-dev.akbank.de/parameter-ui</url>
+ <url>https://corebanking-dev.akbank.de/parameters</url>
  </extensionpoint>
 </app>
