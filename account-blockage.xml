@@ -1,0 +1,13 @@
+<app>
+ <id>app22999</id>
+ <name>Account Blockage Application</name>
+ <provider>Akbank AG-Inovance</provider>
+ <description>Account Blockage</description>
+ <uninstallUrl></uninstallUrl>
+ <installUrl></installUrl>
+ <extensionpoint>
+ <location>EXTENSION_MENU</location>
+ <label>Account Blockage</label>
+ <url>https://corebanking-dev.akbank.de/account-blockage</url>
+ </extensionpoint>
+</app>
