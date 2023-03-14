@@ -1,0 +1,13 @@
+<app>
+ <id>IntRateApp001</id>
+ <name>Batch Job Application</name>
+ <provider>Akbank AG-Inovance</provider>
+ <description>Batch Job Application</description>
+ <uninstallUrl></uninstallUrl>
+ <installUrl></installUrl>
+ <extensionpoint>
+ <location>EXTENSION_MENU</location>
+ <label>Batch jobs</label>
+ <url>https://parameter-dev.akbank.de/batch-jobs</url>
+ </extensionpoint>
+</app>
