@@ -1,13 +1,13 @@
 <app>
  <id>app22999</id>
- <name>Time Deposit Accounts View</name>
+ <name>Current Accounts Update</name>
  <provider>Akbank AG-Inovance</provider>
- <description>Time Deposit Accounts View</description>
+ <description>Current Accounts Update</description>
  <uninstallUrl></uninstallUrl>
  <installUrl></installUrl>
  <extensionpoint>
  <location>EXTENSION_MENU</location>
- <label>Time Deposit Accounts View</label>
- <url>https://corebanking-dev.akbank.de/deposit/time-deposit-accounts/view</url>
+ <label>Current Accounts Update</label>
+ <url>https://corebanking-dev.akbank.de/deposit/current-accounts/update</url>
  </extensionpoint>
 </app>
