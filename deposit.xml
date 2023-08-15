@@ -1,13 +1,13 @@
 <app>
  <id>app22999</id>
- <name>Inbank Money Transfer</name>
+ <name>Manual Interest Payment</name>
  <provider>Akbank AG-Inovance</provider>
- <description>Inbank Money Transfer</description>
+ <description>Manual Interest Payment</description>
  <uninstallUrl></uninstallUrl>
  <installUrl></installUrl>
  <extensionpoint>
  <location>EXTENSION_MENU</location>
- <label>Inbank Money Transfer</label>
- <url>https://corebanking-dev.akbank.de/deposit/money-transfer/inbank-money-transfer</url>
+ <label>Manual Interest Payment</label>
+ <url>https://corebanking-dev.akbank.de/deposit/manuel-interest-payment</url>
  </extensionpoint>
 </app>
