@@ -1,13 +1,13 @@
 <app>
  <id>app22999</id>
- <name>Manual Interest Payment</name>
+ <name>Group Definition</name>
  <provider>Akbank AG-Inovance</provider>
- <description>Manual Interest Payment</description>
+ <description>Group Definition</description>
  <uninstallUrl></uninstallUrl>
  <installUrl></installUrl>
  <extensionpoint>
  <location>EXTENSION_MENU</location>
- <label>Manual Interest Payment</label>
- <url>https://corebanking-dev.akbank.de/deposit/manuel-interest-payment</url>
+ <label>Group Definition</label>
+ <url>https://corebanking-dev.akbank.de/group-definition</url>
  </extensionpoint>
 </app>
